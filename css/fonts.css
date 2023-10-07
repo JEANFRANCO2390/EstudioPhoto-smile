@@ -1,0 +1,51 @@
+@font-face {
+    font-family: "Ubuntu";
+    src: url(../assets/fonts/Ubuntu-Regular.ttf);
+    font-weight: 400;
+}
+@font-face {
+    font-family: "Ubuntu";
+    src: url(../assets/fonts/Ubuntu-Medium.ttf);
+    font-weight: 500;
+}
+@font-face {
+    font-family: "Ubuntu";
+    src: url(../assets/fonts/Ubuntu-Bold.ttf);
+    font-weight: 700;
+}
+
+@font-face {
+    font-family: "Barlow";
+    src: url(../assets/fonts/Barlow-SemiBold.ttf);
+    font-weight: 600;
+}
+
+@font-face {
+    font-family: "Fraunces";
+    src: url(../assets/fonts/Fraunces_144pt-Bold.ttf);
+    font-weight: 700;
+}
+
+@font-face {
+    font-family: "Fraunces";
+    src: url(../assets/fonts/Fraunces_144pt-Black.ttf);
+    font-weight: 900;
+}
+
+@font-face {
+    font-family: "SedgwickAveDisplay";
+    src: url(../assets/fonts/SedgwickAveDisplay-Regular.ttf);
+    font-weight: 400;
+}
+
+@font-face {
+    font-family: "BebasNeue";
+    src: url(../assets/fonts/BebasNeue-Regular.ttf);
+    font-weight: 400;
+}
+
+@font-face {
+    font-family: "DancingScript";
+    src: url(../assets/fonts/DancingScript-VariableFont_wght.ttf);
+    font-weight: 400;
+}
